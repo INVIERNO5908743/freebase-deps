@@ -1,2 +1,2 @@
 # freebase-deps
-Eliminates need for gnome pakages when installing Freebase
+Eliminates need for gnome pakages when installing KEYbase.io
